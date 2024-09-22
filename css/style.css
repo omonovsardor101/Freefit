@@ -131,7 +131,7 @@ ul {
 
 .modal-info {
     position: absolute;
-    bottom: 120px;
+    bottom: 150px;
     left: 20px;
     display: flex;
     flex-direction: column;
