@@ -81,7 +81,8 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 15.7vh;
+    padding-block: 30px;
+    margin-top: 20px;
 }
 
 .header-nav {
@@ -236,7 +237,7 @@ ul {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 84.3vh;
+    height: 852px;
     position: relative;
 }
 
@@ -279,7 +280,7 @@ ul {
 
 .hero-down {
     position: absolute;
-    bottom: 20px;
+    bottom: 55px;
     left: 0;
     width: 52px;
     height: 53px;
@@ -706,7 +707,7 @@ input[type="checkbox"]:checked::before {
 
 }
 
-@media (width <=850px) {
+@media (width <= 850px) {
     .header-wrapper {
         margin-top: 22px;
         padding-block: 30px;
@@ -756,6 +757,7 @@ input[type="checkbox"]:checked::before {
         width: 40px;
         height: 40px;
         font-size: 24px;
+        bottom: 20px;
     }
 
     .hero-bg {
