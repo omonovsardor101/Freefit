@@ -1,4 +1,4 @@
-# 💪 Online Trainings Site
+# 💪 Online Trainings Landing Page
 
 - **responsive**
 - **single-page**
